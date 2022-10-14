@@ -1,0 +1,19 @@
+.header{
+    background-color: #000000;
+    min-height: 70px;
+    display: grid;
+    grid-template-columns: 55% 45%;
+    align-items: center;
+}
+
+.title{
+    color: #ffffff;
+    display: flex;
+    justify-content: flex-end;
+    cursor:pointer;
+}
+
+.title h1{
+  font-family: Brush Script MT;
+  font-size: 40px;
+}

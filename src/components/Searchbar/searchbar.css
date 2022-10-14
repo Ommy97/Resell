@@ -1,0 +1,19 @@
+.margin{
+   margin: 40px 0 50px 0;
+}
+
+.input{
+    width: 700px; 
+}
+
+@media (max-width: 820px) {
+    .input{
+        width: 400px;
+    }
+  }
+
+  @media (max-width: 420px) {
+    .input{
+        width: 250px;
+    }
+  }
